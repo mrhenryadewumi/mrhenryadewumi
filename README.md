@@ -13,7 +13,7 @@ Product builder in the UK. I design and ship AI-powered web products for learner
 A free study platform with two separate spaces:
 
 - **Exam Pal**: practice for Nigeria's three school-leaving and entrance exams, **JAMB UTME, WASSCE and NECO SSCE**, each kept separate, in seven subjects each. Timed tests at real exam pace, scores broken down by topic, every answer explained, and an AI tutor that explains a question another way. All questions are original practice questions written to each syllabus; they are not past papers, and the platform is not endorsed by JAMB, WAEC or NECO.
-- **Careers**: six courses for graduates and career changers (AI governance, risk and compliance; business analysis; project management; PRINCE2 Foundation; forward deployed engineer; solutions engineer), with narrated lessons, weekly tasks, timed mock exams and the same AI tutor.
+- **Careers**: five courses for graduates and career changers (business analysis; data analysis with Excel, SQL and Power BI; project management; PRINCE2 Foundation; AI governance, risk and compliance), with narrated lessons, weekly tasks, timed mock exams and the same AI tutor.
 
 <p>
   <img src="assets/skillbanana-home.png" alt="SkillBanana Learn home: choose Exam Pal or Careers" width="720">
